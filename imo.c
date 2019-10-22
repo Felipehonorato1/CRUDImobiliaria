@@ -5,8 +5,6 @@
 
 
 int main(){
-//O REPOSITORIO TA FUNCIONANDO CARAI
-//MISERA
-//carai
+
     return;
 }
