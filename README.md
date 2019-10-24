@@ -1,2 +1,0 @@
-# CRUDImobiliaria
-Projeto LP1 
