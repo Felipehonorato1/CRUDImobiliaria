@@ -10,7 +10,7 @@ typedef struct{
     int pavimentos, quartos,numero;
     float area_construida, area_terreno, valor_imovel;
 }tCasa;
-
+// teste
 typedef struct{
     char titulo[31], tipo_negocio, logradouro[101], cep[11], bairro[31], cidade[31], posicao[10];
     int pavimentos, quartos, numero, vagas_garagem, andar;
