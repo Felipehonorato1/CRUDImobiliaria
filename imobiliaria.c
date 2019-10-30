@@ -4,7 +4,7 @@
 #include <string.h>
 
 #define N 100
-
+//comentario
 typedef struct{
     char titulo[31], tipo_negocio, logradouro[101], cep[11], bairro[31], cidade[31];
     int pavimentos, quartos,numero;
